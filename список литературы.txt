@@ -1,2 +1,3 @@
 https://ru.bmstu.wiki/NTP_(Network_Time_Protocol) про протокол 
 http://www.4stud.info/networking/network-devices.html#router про сетевые устройства
+http://time.in.ua/ntp.html про разные протоколы
