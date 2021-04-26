@@ -1,3 +1,8 @@
 https://ru.bmstu.wiki/NTP_(Network_Time_Protocol) про протокол 
 http://www.4stud.info/networking/network-devices.html#router про сетевые устройства
 http://time.in.ua/ntp.html про разные протоколы
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) язык си
+https://ru.wikipedia.org/wiki/C_Sharp про C#
+https://ru.wikipedia.org/wiki/Objective-C
+https://ru.wikipedia.org/wiki/Java
+https://ru.wikipedia.org/wiki/Python
