@@ -7,3 +7,5 @@ https://ru.wikipedia.org/wiki/Objective-C
 https://ru.wikipedia.org/wiki/Java
 https://ru.wikipedia.org/wiki/Python
 Лайза Криспин, Джанет Грегори. Гибкое тестирование: практическое руководство для тестировщиков ПО и гибких команд = Agile Testing: A Practical Guide for Testers and Agile Teams. — М.: «Вильямс», 2010. — 464 с. — (Addison-Wesley Signature Series). 
+
+Семенов Ю.А. Сетевой протокол времени NTP // Telecommunication technologies - Телекоммуникационные технологии. — 2014.
